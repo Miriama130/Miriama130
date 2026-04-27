@@ -8,17 +8,37 @@
   
 </div>
 
+---
+
 ## 👋 À propos de moi
 
-Je suis **Mariem Tlili**, Ingénieure en Informatique passionnée par la **cybersécurité**, le **DevOps** et le **développement Full-Stack**. Avec une solide expertise en architecture microservices, cloud computing et sécurité offensive, je conçois des solutions innovantes, scalables et hautement sécurisées.
+<table>
+  <tr>
+    <td width="60%">
+      <p>Je suis <strong>Mariem Tlili</strong>, Ingénieure en Informatique passionnée par la <strong>cybersécurité</strong>, le <strong>DevOps</strong> et le <strong>développement Full-Stack</strong>.</p>
+      <p>Avec une solide expertise en architecture microservices, cloud computing et sécurité offensive, je conçois des solutions innovantes, scalables et hautement sécurisées.</p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="120" style="border-radius: 50%;" alt="Avatar">
+    </td>
+  </tr>
+</table>
 
 ```python
 class MariemTlili:
     def __init__(self):
         self.role = "Ingénieure en Informatique"
-        self.specialties = ["Cyber Sécurité", "DevOps", "Full-Stack", "Machine Learning"]
+        self.specialties = ["Cyber Sécurité", "DevOps", "Full-Stack", "Machine Learning", "Cloud"]
         self.location = "Tunis, Tunisie"
         self.availability = "Open to opportunities"
     
     def say_hello(self):
         print("🚀 Passionnée par les technologies de rupture et la protection des systèmes")
+    
+    def get_skills(self):
+        return {
+            "backend": ["Java/Spring Boot", "Python/Django", "Node.js", "GraphQL"],
+            "frontend": ["React", "Angular", "TailwindCSS", "TypeScript"],
+            "devops": ["Docker", "Kubernetes", "Jenkins", "Terraform", "AWS"],
+            "cyber": ["Nessus", "GLPI", "Blockchain", "ISO 27001"]
+        }
