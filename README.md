@@ -1,7 +1,7 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2C7DA0&center=true&vCenter=true&width=600&lines=Bonjour%2C+je+suis+Mariem+Tlili;Ing%C3%A9nieure+en+Informatique;Expert+Cyber+S%C3%A9curit%C3%A9;DevOps+%26+Full-Stack+Developer" alt="Typing SVG" />
-  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2C7DA0&center=true&vCenter=true&width=600&lines=Bonjour%2C+je+suis+Mariem+Tlili;Ing%C3%A9nieure+en+Informatique;Expert+Cyber+Full-Stack+Developer" alt="Typing SVG" />
+  <br/><br/>
   <!-- Profile Views, Followers, Stars -->
   <img src="https://komarev.com/ghpvc/?username=mariemtlili&color=2C7DA0&style=for-the-badge&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/github/followers/mariemtlili?style=for-the-badge&logo=github&color=2C7DA0&label=FOLLOWERS" />
@@ -9,7 +9,7 @@
   
   <br/><br/>
   
-  <img src="https://img.shields.io/badge/Status-En%20recherche%20d'opportunit%C3%A9s-2C7DA0?style=for-the-badge" />
+ 
   <img src="https://img.shields.io/badge/Portfolio-En%20ligne-brightgreen?style=for-the-badge&logo=vercel&logoColor=white" />
   
 </div>
