@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2C7DA0&center=true&vCenter=true&width=600&lines=Bonjour%2C+je+suis+Mariem+Tlili;Ing%C3%A9nieure+en+Informatique;Expert+Cyber+%26+Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2C7DA0&center=true&vCenter=true&width=600&lines=Bonjour%2C+je+suis+Mariem+Tlili;Ing%C3%A9nieure+en+Informatique;Expert+Cyber+%26" alt="Typing SVG" />
   
   <br/><br/>
   
@@ -27,7 +27,6 @@
       <ul>
         <li>📍 <strong>Localisation :</strong> Tunis, Tunisie</li>
         <li>🎓 <strong>Diplôme :</strong> Ingénieure en Informatique - ESPRIT</li>
-        <li>💼 <strong>Disponibilité :</strong> Open to opportunities</li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -40,7 +39,7 @@
 class MariemTlili:
     def __init__(self):
         self.role = "Ingénieure en Informatique"
-        self.specialties = ["Cyber Sécurité", "Full-Stack", "DevOps", "Cloud"]
+        self.specialties = ["Cyber Sécurité", "Full-Stack"]
         self.school = "ESPRIT"
         self.location = "Tunis, Tunisie"
     
