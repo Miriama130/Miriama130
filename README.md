@@ -16,11 +16,9 @@
 <br/>
 
 <!-- Developer Women Illustration -->
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom_up.svg" alt="developer animation" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="developer animation" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/mariemtlili/mariemtlili/main/avatar.svg" alt="Mariem Tlili - Developer Avatar" width="400"/>
-
-> 💡 *Pour afficher l'avatar personnalisé, ajoute le fichier `avatar.svg` ci-joint à la racine de ton repo `mariemtlili/mariemtlili`*
+<img alt="developer women" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="380"/>
 
 <br/>
 
