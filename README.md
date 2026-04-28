@@ -1,12 +1,14 @@
 <div align="center">
 
 ```
-███╗   ███╗ █████╗ ██████╗ ██╗███████╗███╗   ███╗
-████╗ ████║██╔══██╗██╔══██╗██║██╔════╝████╗ ████║
-██╔████╔██║███████║██████╔╝██║█████╗  ██╔████╔██║
-██║╚██╔╝██║██╔══██║██╔══██╗██║██╔══╝  ██║╚██╔╝██║
-██║ ╚═╝ ██║██║  ██║██║  ██║██║███████╗██║ ╚═╝ ██║
-╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝     ╚═╝
+███╗   ███╗ █████╗ ██████╗ ██╗███████╗███╗   ███╗    ████████╗██╗     ██╗██╗     ██╗
+████╗ ████║██╔══██╗██╔══██╗██║██╔════╝████╗ ████║       ██╔══╝██║     ██║██║     ██║
+██╔████╔██║███████║██████╔╝██║█████╗  ██╔████╔██║       ██║   ██║     ██║██║     ██║
+██║╚██╔╝██║██╔══██║██╔══██╗██║██╔══╝  ██║╚██╔╝██║       ██║   ██║     ██║██║     ██║
+██║ ╚═╝ ██║██║  ██║██║  ██║██║███████╗██║ ╚═╝ ██║       ██║   ███████╗██║███████╗██║
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝     ╚═╝       ╚═╝   ╚══════╝╚═╝╚══════╝╚═╝
+
+             ──────  I N G É N I E U R E   I N F O R M A T I Q U E  ──────
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Ing%C3%A9nieure+Informatique+%F0%9F%92%BB;Web+Developer+%2B+Cybersecurity+Specialist+%F0%9F%94%90;Full+Stack+%7C+DevOps+%7C+Cloud+%E2%98%81%EF%B8%8F;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
@@ -16,7 +18,9 @@
 <!-- Developer Women Illustration -->
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom_up.svg" alt="developer animation" width="100%"/>
 
-<img alt="developer women" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="380"/>
+<img src="https://raw.githubusercontent.com/mariemtlili/mariemtlili/main/avatar.svg" alt="Mariem Tlili - Developer Avatar" width="400"/>
+
+> 💡 *Pour afficher l'avatar personnalisé, ajoute le fichier `avatar.svg` ci-joint à la racine de ton repo `mariemtlili/mariemtlili`*
 
 <br/>
 
